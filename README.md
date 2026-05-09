@@ -28,4 +28,3 @@ Upload that `submission.csv` file to Kaggle.
 ## Current Local Result
 
 The checked run produced a 3-fold out-of-fold ROC-AUC of about `0.9499`.
-# Predicting-F1-Pit-Stops
